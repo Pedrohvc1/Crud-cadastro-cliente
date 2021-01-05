@@ -1,0 +1,10 @@
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\bin\Debug\Cadastro_Cliente.exe.config
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\bin\Debug\Cadastro_Cliente.exe
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\bin\Debug\Cadastro_Cliente.pdb
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csprojAssemblyReference.cache
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.Form1.resources
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.Properties.Resources.resources
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csproj.GenerateResource.cache
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.csproj.CoreCompileInputs.cache
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.exe
+D:\ADS\Projetos\Cadastro_Cliente\Cadastro_Cliente\obj\Debug\Cadastro_Cliente.pdb
